@@ -1,0 +1,30 @@
+[
+  {
+    "img": "https://vjoy.cc/wp-content/uploads/2020/07/bezymyannyjav-5.jpg",
+    "name": "Lion",
+    "scientificName": "Panthero leo",
+    "size": 140,
+    "diet": [
+      "meat"
+    ]
+  },
+  {
+    "img": "https://oboi-telefon.ru/wallpapers/9802/37547.jpg",
+    "name": "Gorilla",
+    "scientificName": "Gorilla beringei",
+    "size": 205,
+    "diet": [
+      "plants",
+      "insects"
+    ]
+  },
+  {
+    "img": "http://storge.pic2.me/cm/640x1136/554/547854ff1d806.jpg",
+    "name": "Zebra",
+    "scientificName": "Equus quagga",
+    "size": 322,
+    "diet": [
+      "plants"
+    ]
+  }
+ ]
